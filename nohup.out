@@ -2,3 +2,5 @@
 127.0.0.1 - - [04/Dec/2019 10:33:43] "GET /customers HTTP/1.1" 200 -
 127.0.0.1 - - [04/Dec/2019 10:34:29] "GET /customers HTTP/1.1" 200 -
  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [04/Dec/2019 15:52:19] "GET /customers HTTP/1.1" 200 -
